@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Avocados",
+        "image": "🥑",
+        "from": "spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🥑",
+        "price": "6.50",
+        "organic": true,
+        "descreption": "Loream epsom"
+    },
+    {
+        "id": 1,
+        "productName": "Fresh Avocados",
+        "image": "",
+        "from": "spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 ",
+        "price": "6.50",
+        "organic": true,
+        "descreption": "Loream epsom"
+    },
+    {
+        "id": 2,
+        "productName": "Fresh Avocados",
+        "image": "",
+        "from": "spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 ",
+        "price": "6.50",
+        "organic": true,
+        "descreption": "Loream epsom"
+    }
+
+]

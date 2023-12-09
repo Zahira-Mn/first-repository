@@ -1,0 +1,2 @@
+this is the content of the input file : Hello from the input file  
+ Created at 1702139260392
